@@ -44,7 +44,7 @@ uts-sentiment-web/
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/FelixMaicleine/uts-sentiment-web.git](https://github.com/FelixMaicleine/uts-sentiment-web.git)
+    git clone https://github.com/FelixMaicleine/uts-sentiment-web.git
     cd uts-sentiment
     ```
 
