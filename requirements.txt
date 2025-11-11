@@ -1,0 +1,9 @@
+Flask
+scikit-learn
+Sastrawi
+nltk
+numpy
+gunicorn
+pandas
+requests
+openpyxl
