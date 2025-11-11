@@ -9,6 +9,9 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 from nltk.tokenize import word_tokenize
 
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
 factory_stopword = StopWordRemoverFactory()
 stopword_list_func = factory_stopword.get_stop_words()
 factory_stemmer = StemmerFactory()
